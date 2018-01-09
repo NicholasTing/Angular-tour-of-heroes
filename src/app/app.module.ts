@@ -19,6 +19,7 @@ import { DashboardComponent } from './dashboard/dashboard.component';
     MessagesComponent,
     DashboardComponent
   ],
+  
   imports: [
     BrowserModule,
     FormsModule,
